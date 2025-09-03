@@ -73,7 +73,7 @@ INFO_TEXT = """
 ❍ ᴅᴄ ɪᴅ ▷ {}
 ❍ ʙɪᴏ ▷ {}
 
-❖ ᴍᴀᴅᴇ ʙʏ  ➛ [ мᴜsɪᴄ](https://t.me/about_brahixs)
+❖ ᴍᴀᴅᴇ ʙʏ  ➛ [ мᴜsɪᴄ](https://t.me/about_brahix)
 ▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
 
 """

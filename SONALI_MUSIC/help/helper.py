@@ -46,7 +46,7 @@ class Helper(object):
 **❖ sᴇɴᴅ ᴡʜɪsᴘᴇʀ ᴍᴇssᴀɢᴇ ❖**
 
 ```
- єxᴧϻᴘʟє : @raddhika_robot @Brahix I love You 😘
+ єxᴧϻᴘʟє : @Saregamaa_Music_bot @Brahix I love You 😘
 ```
 
 <u>**❖ ᴛєxᴛ ᴛσ ᴠσɪᴄє**</u>
@@ -351,11 +351,11 @@ class Helper(object):
 '''
     HELP_ABOUT = '''
 **─────────────────────────
-│ ᴡєʟᴄσϻє ᴛσ [𝐁𝐑𝐀𝐇𝐈𝐗](https://t.me/raddhika_robot)˼ ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ [𝐁𝐑𝐀𝐇𝐈𝐗](https://t.me/Saregamaa_Music_bot)˼ ʙσᴛ sᴛᴧᴛυs │
 ─────────────────────────
        ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ─────────────────────────
-╭⎋ [𝐁𝐑𝐀𝐇𝐈𝐗](https://t.me/raddhika_robot) : ᴧʟɪᴠє 
+╭⎋ [𝐁𝐑𝐀𝐇𝐈𝐗](https://t.me/Saregamaa_Music_bot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01    
 ─────────────────────────
@@ -364,7 +364,7 @@ class Helper(object):
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 19 oct 2024
 ─────────────────────────
 ❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ » [𝐁𝐑𝐀𝐇𝐈𝐗](https://t.me/about_brahix)
-❍ 𝐃єᴧʟᴏᴘєʀ.  » [𝐃𝐞𝐯𝐢𝐥 𝐁𝐨𝐬](https://t.me/Brahix)
+❍ 𝐃єᴧʟᴏᴘєʀ.  » [𝐁𝐑𝐀𝐇𝐈𝐗](https://t.me/Brahix)
 ─────────────────────────**
 '''
     HELP_ALLBOT = '''
